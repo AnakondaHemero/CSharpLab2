@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Ism\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.exe.config
+C:\Users\User\Desktop\Ism\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.exe
+C:\Users\User\Desktop\Ism\CSharpLab2\SwitchProjectWinForms\bin\Debug\SwitchProjectWinForms.pdb
+C:\Users\User\Desktop\Ism\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ism\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.Form1.resources
+C:\Users\User\Desktop\Ism\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.Properties.Resources.resources
+C:\Users\User\Desktop\Ism\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Ism\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ism\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.exe
+C:\Users\User\Desktop\Ism\CSharpLab2\SwitchProjectWinForms\obj\Debug\SwitchProjectWinForms.pdb
